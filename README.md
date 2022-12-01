@@ -21,7 +21,10 @@
 <div id="header">
   :dress: Here's my favorite online clothing store! :dress:
 </div>
-TeenHearts [![Static Badge](https://img.shields.io/badge/Online-TeenHearts-red)](https://www.teenhearts.com/)
+<div id="badges">
+  <a href="https://www.teenhearts.com/">
+    <img src="https://img.shields.io/badge/Online-TeenHearts-red" alt="TeenHearts Badge">
+    </div>
 
 <!---
 gsromero00/gsromero00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
