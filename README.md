@@ -17,9 +17,11 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4a7sWil1NZoRWymHJp/giphy.gif" width="200" height="200">
+</div>
+<div id="header">
   :dress: Here's my favorite online clothing store! :dress:
 </div>
-- TeenHearts [![TeenHearts badge](https://img.shields.io/badge/Online-TeenHearts-red)](https://www.teenhearts.com/)
+- TeenHearts [![TeenHearts badge](https://img.shields.io/badge/Online-TeenHearts-red)]
 
 <!---
 gsromero00/gsromero00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
