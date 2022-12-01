@@ -4,13 +4,17 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZcVnojfPX8G4mwXimp/giphy.gif">
 </div>
+
 ---
+
  ٩(＾◡＾)۶ About Me ٩(＾◡＾)۶
 :wave: Hello! I'm @gsromero00
 :school: I'm a student at UTSA <img src="https://www.clipartmax.com/png/middle/427-4275710_utsa-roadrunners.png">
 :desktop_computer: I'm majoring in Cyber Security
 :octocat: I have one cat!
+
 ---
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4a7sWil1NZoRWymHJp/giphy.gif">
 </div>
