@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/4a7sWil1NZoRWymHJp/giphy.gif" width="200" height="200">
 </div>
 :email: Here's my LinkedIn profile! :email:
-Teenhearts [![Linkedin badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][https://www.teenhearts.com/]
+- LinkedIn [![Linkedin badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)][https://www.teenhearts.com/]
 
 <!---
 gsromero00/gsromero00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
