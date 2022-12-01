@@ -7,11 +7,11 @@
 
 ---
 
- ٩(＾◡＾)۶ About Me ٩(＾◡＾)۶
-:wave: Hello! I'm @gsromero00
-:school: I'm a student at UTSA <img src="https://www.clipartmax.com/png/middle/427-4275710_utsa-roadrunners.png">
-:desktop_computer: I'm majoring in Cyber Security
-:octocat: I have one cat!
+- ٩(＾◡＾)۶ About Me ٩(＾◡＾)۶
+- :wave: Hello! I'm @gsromero00
+- :school: I'm a student at UTSA <img src="https://goutsa.com/images/logos/site/site.png" width="40" height="60">
+- :desktop_computer: I'm majoring in Cyber Security
+- :octocat: I have one cat!
 
 ---
 
