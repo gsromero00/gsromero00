@@ -1,5 +1,7 @@
 <div id="header" align="center">
-:smiley_cat: Welcome to my Readme :smiley_cat:
+  :smiley_cat: Welcome to my Readme :smiley_cat:
+</div>
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/ZcVnojfPX8G4mwXimp/giphy.gif">
 </div>
 ---
